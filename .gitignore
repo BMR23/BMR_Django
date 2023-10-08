@@ -8,7 +8,7 @@ static/
 media/
 venv/
 project/local_settings.py
-
+data/
 # Backup files #
 *.bak
 
